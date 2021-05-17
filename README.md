@@ -1,4 +1,7 @@
-### Hi there 👋
+#AboutME
+
+Contact information: fjola.hyseni@u-bordeaux.fr
+LinkedIn: https://www.linkedin.com/in/fjolahyseni/
 
 <!--
 **fjolah/fjolah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
