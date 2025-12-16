@@ -1,9 +1,9 @@
 
 
-<pre><small>Contact information: fjola.hyseni@u-bordeaux.fr 
+<pre><small>Contact information: fjola.hyseni@unibas.ch
 LinkedIn: https://www.linkedin.com/in/fjolahyseni/ </small> </pre> 
 
-I am a PhD student at the Institute of Neurodegenerative Diseases (Bordeaux, France) and a Medical Doctor.
+I am a Postdoc at the Translational Psychiatry Lab (Basel, Switzerland) and a Medical Doctor.
 
 <a rel="me" href="https://mastodon.social/@fjola">Mastodon</a>
 <!--
